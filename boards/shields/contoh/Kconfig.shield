@@ -1,0 +1,2 @@
+config SHIELD_CONTOH
+    def_bool y
