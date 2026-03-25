@@ -11,11 +11,11 @@
 
         base {
             bindings = <
-&kp Q &kp W &kp E &kp R &kp T &kp Y &kp U
-&kp A &kp S &kp D &kp F &kp G &kp H &kp J
-&kp Z &kp X &kp C &kp V &kp B &kp N &kp M
-&kp TAB &kp LCTRL &kp LALT &kp SPACE &kp BSPC &kp ENTER &kp ESC
-&kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp N6 &kp N7
+&kp A &kp B &kp C &kp D &kp E &kp F &kp G
+&kp A &kp B &kp C &kp D &kp E &kp F &kp G
+&kp A &kp B &kp C &kp D &kp E &kp F &kp G
+&kp A &kp B &kp C &kp D &kp E &kp F &kp G
+&kp A &kp B &kp C &kp D &kp E &kp F &kp G
             >;
         };
     };
