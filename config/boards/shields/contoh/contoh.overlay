@@ -32,7 +32,7 @@
     kscan: kscan {
         compatible = "zmk,kscan-composite";
         label = "KSCAN";
-        rows = <5;
+        rows = <5>;
         columns = <7>;
 
         matrix {
