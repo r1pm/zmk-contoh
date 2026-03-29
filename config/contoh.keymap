@@ -9,7 +9,7 @@
 
         base {
             bindings = <
-&kp A  &kp B  &kp C  &kp D  &kp E  &kp F  &kp G
+&bt BT_CLR  &kp B  &kp C  &kp D  &kp E  &kp F  &kp G
 &kp A  &kp B  &kp C  &kp D  &kp E  &kp F  &kp H
 &kp A  &kp B  &kp C  &kp D  &kp E  &kp F  &kp I
 &kp A  &kp B  &kp C  &kp D  &kp E  &kp F  &kp J
